@@ -15,7 +15,7 @@ Added:
 
 * '/changePassword' Changes Password
 
-*Changing the Color of Notepad Welcome Screen
+* Changing the Color of Notepad Welcome Screen
 
 # Update 2.0
 
