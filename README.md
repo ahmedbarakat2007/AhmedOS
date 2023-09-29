@@ -10,8 +10,6 @@ btw DO NOT TRY TYPING '/killSwitch' I HAVN'T TRIED IT BUT EVEN IF I REMINDED YOU
 Added:
 
 * '/lock' That Gets You to The Lock Screen
-  
-* File System
 
 * '/changePassword' Changes Password
 
