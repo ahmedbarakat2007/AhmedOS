@@ -6,14 +6,14 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "AhmedOS`/1.0.0": {
+      "AhmedOS/1.0.0": {
         "dependencies": {
           "Cosmos.Build": "0.1.0-localbuild20221121055958",
           "Cosmos.Debug.Kernel": "0.1.0-localbuild20221121060004",
           "Cosmos.System2": "0.1.0-localbuild20221121060004"
         },
         "runtime": {
-          "AhmedOS`.dll": {}
+          "AhmedOS.dll": {}
         }
       },
       "Cosmos.Build/0.1.0-localbuild20221121055958": {},
@@ -87,7 +87,7 @@
     }
   },
   "libraries": {
-    "AhmedOS`/1.0.0": {
+    "AhmedOS/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
