@@ -26,6 +26,18 @@ btw DO NOT TRY TYPING '/killSwitch' I HAVN'T TRIED IT BUT EVEN IF I REMINDED YOU
 
 * a 50mb USB Drive (also Optional)
 
+# Update 3.0
+
+Added:
+
+* New Design
+
+* Save Feature For Notepad
+
+* Error Sounds
+
+* New About
+
 # Update 2.5
 
 Added:
