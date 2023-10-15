@@ -1,17 +1,36 @@
 # AhmedOS
-My First Ever Opreating System
+
+![logo](https://github.com/ahmedbarakat2007/AhmedOS/assets/118398763/9d15fb9d-f8aa-4e40-9dfb-dc75c53daa27)
+
+It's a Text Based Operating System
+
+Ment to Be An OS For Really Really Old PC Or an Portable OS
+
+Made Possible Using Cosmos OS and Ofcourse by Ahmed Barakat
 
 Very Very Simple OS (Remember it's in It's First Version)
 
+Still Working on Adding New Stuff
+
 btw DO NOT TRY TYPING '/killSwitch' I HAVN'T TRIED IT BUT EVEN IF I REMINDED YOU
+
+# System Requirement
+
+* a Computer (Optional)
+  
+* a Cpu
+  
+* a Gpu
+  
+* a Keyboard
+
+* a 50mb USB Drive (also Optional)
 
 # Update 2.5
 
 Added:
 
 * '/lock' That Gets You to The Lock Screen
-  
-* File System
 
 * '/changePassword' Changes Password
 
@@ -25,7 +44,7 @@ Added:
 
 * Colored Text
 
-* Password (BTW It's 123)
+* Password
 
 * '/clear' To Clear All Commands That Has Been Typed
 
