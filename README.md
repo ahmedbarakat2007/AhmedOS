@@ -20,7 +20,7 @@ btw DO NOT TRY TYPING '/killSwitch' I HAVN'T TRIED IT BUT EVEN IF I REMINDED YOU
   
 * a Cpu
   
-* a Gpu
+* a Gpu (Optional)
   
 * a Keyboard
 
