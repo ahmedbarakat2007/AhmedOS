@@ -26,6 +26,23 @@ btw DO NOT TRY TYPING '/killSwitch' I HAVN'T TRIED IT BUT EVEN IF I REMINDED YOU
 
 * a 50mb USB Drive (also Optional)
 
+# Update 4.0
+
+Added:
+
+* New Design
+
+* Now There Is Apps
+
+* Looklike GUI
+
+* New Games
+
+* New Desight For All Apps
+
+* Commands Now ONLY Run in Terminal
+
+
 # Update 3.0
 
 Added:
