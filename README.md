@@ -42,6 +42,8 @@ Added:
 
 * Commands Now ONLY Run in Terminal
 
+* New Boot Screen
+
 
 # Update 3.0
 
