@@ -19,6 +19,8 @@ btw DO NOT TRY TYPING '/killSwitch' I HAVN'T TRIED IT BUT EVEN IF I REMINDED YOU
 * a Computer (Optional)
   
 * a Cpu
+
+* 38MB Ram(at Least)
   
 * a Gpu (Optional)
   
