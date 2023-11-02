@@ -26,6 +26,12 @@ btw DO NOT TRY TYPING '/killSwitch' I HAVN'T TRIED IT BUT EVEN IF I REMINDED YOU
 
 * a 50mb USB Drive (also Optional)
 
+#ScreenShot
+
+
+![screen](https://github.com/ahmedbarakat2007/AhmedOS/assets/118398763/334cd2f8-e07e-4c3b-b481-636335db9511)
+
+
 # Update 4.0
 
 Added:
