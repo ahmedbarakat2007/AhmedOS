@@ -46,7 +46,7 @@ Added:
 
 * New Games
 
-* New Desight For All Apps
+* New Design For All Apps
 
 * Commands Now ONLY Run in Terminal
 
