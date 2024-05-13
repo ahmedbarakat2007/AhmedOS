@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\AhmedOS\AhmedOS\bin\Debug\net6.0\AhmedOS.deps.json
+C:\Users\Administrator\source\repos\AhmedOS\AhmedOS\bin\Debug\net6.0\AhmedOS.dll
+C:\Users\Administrator\source\repos\AhmedOS\AhmedOS\bin\Debug\net6.0\AhmedOS.pdb
+C:\Users\Administrator\source\repos\AhmedOS\AhmedOS\obj\Debug\net6.0\AhmedOS.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\AhmedOS\AhmedOS\obj\Debug\net6.0\AhmedOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\AhmedOS\AhmedOS\obj\Debug\net6.0\AhmedOS.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AhmedOS\AhmedOS\obj\Debug\net6.0\AhmedOS.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AhmedOS\AhmedOS\obj\Debug\net6.0\AhmedOS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AhmedOS\AhmedOS\obj\Debug\net6.0\AhmedOS.dll
+C:\Users\Administrator\source\repos\AhmedOS\AhmedOS\obj\Debug\net6.0\refint\AhmedOS.dll
+C:\Users\Administrator\source\repos\AhmedOS\AhmedOS\obj\Debug\net6.0\AhmedOS.pdb
+C:\Users\Administrator\source\repos\AhmedOS\AhmedOS\obj\Debug\net6.0\ref\AhmedOS.dll

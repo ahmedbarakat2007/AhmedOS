@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2GS0ts3mOEsD8NRClKyW7GOWn0wx4o2VVrUF5Twfx1VK3CI8uM8WXQSLfAJ1pMlIfXXp73rTANj6toSla7ibyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\AhmedOS\\AhmedOS\\AhmedOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20221121055958\\cosmos.build.0.1.0-localbuild20221121055958.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20221121060004\\cosmos.common.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20221121060004\\cosmos.core.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20221121060004\\cosmos.debug.kernel.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20221121060004\\cosmos.hal2.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20221121060004\\cosmos.system2.0.1.0-localbuild20221121060004.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20221121060004\\il2cpu.api.0.1.0-localbuild20221121060004.nupkg.sha512"
+  ],
+  "logs": []
+}
